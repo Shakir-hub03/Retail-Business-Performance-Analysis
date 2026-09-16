@@ -293,7 +293,7 @@ Retail-Business-Performance-Analysis/
 │   └── Customer_and_Product_Analysis.png
 │
 └── Reports/
-    └── Business_Analysis_Report.pdf
+    └── Business_Analysis_Report.docx
 ```
 
 ---
@@ -316,7 +316,7 @@ The report covers:
 * Business Recommendations
 * Conclusion
 
-**Report:** `Reports/Business_Analysis_Report.pdf`
+**Report:** `Reports/Business_Analysis_Report.docx`
 
 ---
 

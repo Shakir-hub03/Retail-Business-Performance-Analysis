@@ -317,8 +317,7 @@ The report covers:
 * Business Recommendations
 * Conclusion
 
-**Report:** `Reports/Business_Analysis_Report.docx`
-
+**Report:** [Analysis Report](Reports/Business_Analysis_Report.docx)
 ---
 
 # 🧠 Analytical Approach

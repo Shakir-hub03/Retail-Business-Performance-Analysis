@@ -142,7 +142,8 @@ Focuses on:
 
 The complete Power BI project file is available here:
 
-**`PowerBI/Retail_Business_Performance_Analysis.pbix`**
+**`PowerBi/Retail_Business_Performance_Analysis.pbix`**
+
 
 The `.pbix` file contains the Power BI data model, relationships, DAX measures, slicers, and dashboard visuals.
 
@@ -284,7 +285,7 @@ Retail-Business-Performance-Analysis/
 │   ├── 04_Customer_Analysis.sql
 │   └── 05_Product_Analysis.sql
 │
-├── PowerBI/
+├── PowerBi/
 │   └── Retail_Business_Performance_Analysis.pbix
 │
 ├── Dashboard/
